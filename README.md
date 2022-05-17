@@ -1,11 +1,6 @@
-# Getting Started with Create React App
+#Simple code generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I made this project as my first React project.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-A simple code generator made with React.
+This app can generate you a code which you can easily copy and regenerate a new code as you need.
+Enjoy~
