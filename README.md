@@ -1,4 +1,4 @@
-#Simple code generator
+# Simple code generator
 
 I made this project as my first React project.
 
